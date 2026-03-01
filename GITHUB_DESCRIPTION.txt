@@ -1,0 +1,1 @@
+HTTP API that evaluates user segmentation rules with SQL-like predicates. Node.js, Express, TypeScript, SQLite.
