@@ -97,4 +97,4 @@ public/
 
 ## License
 
-ISC
+MIT License
